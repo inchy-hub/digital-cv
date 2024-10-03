@@ -1,4 +1,4 @@
-# Your Name
+# Dave Inch
 Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
 
 ## Summary
