@@ -1,14 +1,14 @@
-# Your Name
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+# Dave Inch
+Systems Engineer | Portfolio: [yourportfolio.github.io](https://inchy-hub.github.io/)
 
 ## Summary
 1-2 sentences summarizing your professional experience and expertise
 
 ## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
+- Azure Cloud: Bicep, Arm 
+- Windows server | uBuntu
+- Powershell & T-SQL
+
 
 ## Experience
 **Company Name** (Dates)   
