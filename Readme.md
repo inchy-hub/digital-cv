@@ -1,5 +1,5 @@
 # Dave Inch
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+Systems Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
 
 ## Summary
 1-2 sentences summarizing your professional experience and expertise
