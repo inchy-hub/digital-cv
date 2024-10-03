@@ -8,6 +8,10 @@ Systems Engineer | Portfolio: [yourportfolio.github.io](https://inchy-hub.github
 - Azure Cloud: Bicep, Arm 
 - Windows server | uBuntu
 - Powershell & T-SQL
+- AD | DNS | IIS | Apache
+- vSphere | vCentre
+- Elastic Search | Kibana
+- Citrix Netscalers
 
 
 ## Experience
